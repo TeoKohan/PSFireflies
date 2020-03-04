@@ -5,7 +5,7 @@ var speed = 1;
 var size = 50;
 var resolution = 50;
 var trail_length = 0.25;
-var interval = 1;
+var interval = 3;
 var t = 0;
 
 function color_lerp(a, b, t) {
